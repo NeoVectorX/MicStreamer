@@ -17,11 +17,22 @@ MicStreamer is a Vision Pro app that streams high-quality microphone audio over 
 
 ---
 
-## 🚀 Getting Started
+## 🚀 Quick Start Guide - (Read the [Guide.md](Guide.md for full in-depth instructions)
 
-1. **Download** the latest release from [Releases](https://github.com/yourusername/MicStreamer/releases).
-2. Launch **MicStreamer.exe**.
-3. Press **Start Listening** and enjoy!
+Vision Pro: 
+1. Go to vb-audio.com/Cable and download/install the VB Audio Driver.
+2. Install the MicStreamer Testflight on Apple Vision Pro
+3. Type in PC IP address
+4. Toggle Stream Microphone
+
+Windows: 
+1. Go to vb-audio.com/Cable and download/install the VB Audio Driver. Restart PC.
+2. Right-click the speaker icon in your Windows taskbar > Sounds > Playback tab and set VB-Audio Virtual Cable as your Default Playback Device.
+3. **Download** the latest release from [Releases](https://github.com/yourusername/MicStreamer/releases).
+4. Run Micstreamer Receiver
+5. Click to start Listenening
+10. Open Discord, or preffered voice chat app and select VB-Audio Virtual Cable as input device. 
+11. You're done!
 
 ---
 
