@@ -78,6 +78,7 @@ Just set **VB-Audio Virtual Cable** as the **Input Device** in that app’s audi
 ### No Audio?
 - Ensure:
   - The **Mic Streamer Windows** app is running and **Start Listening** has been clicked.
+  - Untoggle/Retoggle Microphone Streaming in app. 
   - **VB-Audio Virtual Cable** is the **Default Playback Device**.
   - Discord’s **Input Device** is set to **VB-Audio Virtual Cable**.
   - Make sure you don't have the Draggable Mute Button muted. 
