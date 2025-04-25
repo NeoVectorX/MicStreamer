@@ -20,7 +20,7 @@ Welcome to **MicStreamer**, the ultimate Vision Pro mic streaming solution. This
 - Go to [vb-audio.com/Cable](https://vb-audio.com/Cable/) and download/install the **VB Audio Driver**.
 - Restart your PC after installation.
 
-**Step 3: Launch the Windows Receiver App**
+**Step 3: Launch the Windows Receiver App downloaded here from Github** 
 - Open the **Mic Streamer Receiver** app on your PC.
 - Click **Start Listening** to begin receiving audio.
 - The app will display **"Listening..."** and show incoming audio data when streaming starts.
@@ -45,11 +45,6 @@ Welcome to **MicStreamer**, the ultimate Vision Pro mic streaming solution. This
 - Under **Input Sensitivity**:
   - Disable **"Automatically determine input sensitivity"**.
   - Manually set the slider so your voice triggers green bars without cutting out.
-
-**Using Other Apps?**
-- You can route your Vision Pro mic audio into **any app** that accepts audio input.
-- Just select **VB-Audio Virtual Cable** as the **Input Device** in that app’s audio/microphone settings.
-- Works with apps like **Zoom, OBS, Skype, Teams**, and more.
 
 ---
 
@@ -86,6 +81,7 @@ Just set **VB-Audio Virtual Cable** as the **Input Device** in that app’s audi
   - The **Mic Streamer Windows** app is running and **Start Listening** has been clicked.
   - **VB-Audio Virtual Cable** is the **Default Playback Device**.
   - Discord’s **Input Device** is set to **VB-Audio Virtual Cable**.
+  - Make sure you don't have the Draggable Mute Button muted. 
 
 ---
 
@@ -104,7 +100,4 @@ Just set **VB-Audio Virtual Cable** as the **Input Device** in that app’s audi
 - This is a **false positive** due to the app’s custom, unsigned code.
 - You can safely **allow** or **whitelist** the app in your antivirus settings.
 
----
 
-### Support:
-- For bugs/issues, contact: **micstreamerapp@gmail.com**
