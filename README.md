@@ -19,7 +19,7 @@ MicStreamer is a Vision Pro app that streams high-quality microphone audio over 
 
 ## 🚀 Quick Start Guide
 
-Note: Read the [Guide.md](Guide.md for full in-depth instructions
+Note: Read the [Guide.md](Guide.md) for full in-depth instructions
 
 Vision Pro: 
 1. Go to vb-audio.com/Cable and download/install the VB Audio Driver.
