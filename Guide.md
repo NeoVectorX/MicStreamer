@@ -75,7 +75,7 @@ Just set **VB-Audio Virtual Cable** as the **Input Device** in that app’s audi
 
 ---
 
-### No Audio?
+### No Audio? ☹️
 - Ensure:
   - The **Mic Streamer Windows** app is running and **Start Listening** has been clicked.
   - Untoggle/Retoggle Microphone Streaming in app. 
