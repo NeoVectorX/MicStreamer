@@ -54,7 +54,6 @@ Welcome to **MicStreamer**, the ultimate Vision Pro mic streaming solution. This
 ---
 
 ## FAQ / Tips:
-
 ---
 
 ### Use with Any App:
