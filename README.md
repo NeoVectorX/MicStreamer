@@ -34,20 +34,7 @@ For a full setup guide, including Vision Pro app pairing and troubleshooting, ch
 ## 🔧 Requirements
 - Windows 10 or newer
 - .NET Framework 4.8+
-- VB-Audio Virtual Cable (optional for Discord routing)
-
----
-
-## 🎨 Styling
-
-- Font: TT Octosquares
-- Colors: Dark Gray, Orange Accents (#FF8800)
-
----
-
-## 📝 License
-
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for more info.
+- VB-Audio Virtual Cable Driver
 
 ---
 
