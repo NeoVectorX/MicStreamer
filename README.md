@@ -39,7 +39,6 @@ Windows:
 
 ---
 
--- This code is provided for personal use only. Redistribution or modification is not permitted without permission. --
 
 
 ## 📖 Guide
@@ -52,6 +51,8 @@ For a full setup guide, including Vision Pro app pairing and troubleshooting, ch
 - Windows 10 or newer
 - .NET Framework 4.8+
 - VB-Audio Virtual Cable Driver
+
+  -- This code is provided for personal use only. Redistribution or modification is not permitted without permission. --
 
 ---
 
