@@ -1,57 +1,110 @@
-# 🎛️ MicStreamer Full Setup Guide
+# 🎤 MicStreamer Full Setup Guide
 
 Welcome to **MicStreamer**, the ultimate Vision Pro mic streaming solution. This guide walks you through setting up the app on your Vision Pro and pairing it with the Windows Receiver.
 
 ---
 
-## 🥽 Vision Pro Setup:
-1. **Install MicStreamer** on your Vision Pro from TestFlight.
-2. Open the app and grant microphone permissions when prompted.
-3. Enter your Windows PC’s local IP address (e.g., `192.168.1.100`).
-4. Toggle **Stream Microphone** to **ON**.
-5. You should now see your mic level bar animate when speaking.
+## 1. Setup on Vision Pro:
 
-### Optional Settings:
-- **Voice Activity Detection (VAD):** Auto-mute when silent.
-- **Gain Presets:** Adjust mic sensitivity to Low / Medium / High.
-- **Launch Floating Mute Button:** Quick access to mute/unmute while streaming.
+**Step 1: Launch Mic Streamer**
+- Open the **Mic Streamer** app on your Apple Vision Pro.
+- Enter your PC’s IP address in the **Target IP** field.
+  - _Tip:_ On your PC, open Command Prompt and type `ipconfig`. Look for **IPv4 Address**.
+- Toggle **Stream Microphone** to **ON**.
 
 ---
 
-## 🖥️ Windows Receiver Setup:
-1. Download and run **MicStreamerWindows.exe**.
-2. Press **Start Listening**.
-3. You’ll hear your Vision Pro mic streamed in real time.
-4. (Optional) Change output to **VB-Audio Virtual Cable** to route audio into apps like Discord:
-    - Set MicStreamer output to **Cable Input**.
-    - Set Discord’s input to **Cable Output**.
+## 2. Setup on Windows PC:
+
+**Step 2: Install VB-Audio Virtual Cable**
+- Go to [vb-audio.com/Cable](https://vb-audio.com/Cable/) and download/install the **VB Audio Driver**.
+- Restart your PC after installation.
+
+**Step 3: Launch the Windows Receiver App**
+- Open the **Mic Streamer Receiver** app on your PC.
+- Click **Start Listening** to begin receiving audio.
+- The app will display **"Listening..."** and show incoming audio data when streaming starts.
+
+**Step 4: Route Audio to VB-Audio Cable**
+- The app sends audio to your system’s **default playback device**.
+- To ensure proper routing:
+  - Right-click the speaker icon in your Windows taskbar > **Sounds** > **Playback** tab.
+  - Set **VB-Audio Virtual Cable** as your **Default Playback Device**.
 
 ---
 
-## ⚙️ Tips for Best Performance:
-- Use a **wired network** or strong **WiFi 5/6** connection.
-- Ensure both Vision Pro and PC are on the **same local network**.
-- Recommended audio format: **16-bit, Stereo, 48kHz** on Windows sound settings.
-- If using VB-Cable, make sure its settings also match **16-bit, 48kHz**.
+## 3. Configure Discord (or Any App):
+
+**Step 5: Set VB-Audio as Input**
+- Open **Discord** > **User Settings** > **Voice & Video**.
+- Under **Input Device**, select **VB-Audio Virtual Cable**.
+- Turn **OFF** the following for best quality:
+  - Echo Cancellation
+  - Noise Reduction
+  - Automatic Gain Control
+- Under **Input Sensitivity**:
+  - Disable **"Automatically determine input sensitivity"**.
+  - Manually set the slider so your voice triggers green bars without cutting out.
+
+**Using Other Apps?**
+- You can route your Vision Pro mic audio into **any app** that accepts audio input.
+- Just select **VB-Audio Virtual Cable** as the **Input Device** in that app’s audio/microphone settings.
+- Works with apps like **Zoom, OBS, Skype, Teams**, and more.
 
 ---
 
-## 🔧 Troubleshooting:
-- **No Sound?**
-  - Check that your PC’s firewall allows UDP on port **9999**.
-  - Verify the Vision Pro has the **correct IP address** entered.
-  - Confirm **MicStreamerWindows** is set to **Start Listening**.
-- **Distorted or Chipmunk Audio?**
-  - Check that **Windows audio settings** (including VB-Cable if used) are set to **16-bit, 48kHz**.
-- **High Latency?**
-  - Try switching to a wired Ethernet connection for the PC.
+## 4. You Are Done! 🎉
+- Your Vision Pro microphone audio is now streaming into your Windows app and ready for Discord or any app of your choice!
 
 ---
 
-## 🎮 Pro Tip:
-You can game on Vision Pro with **Moonlight** while using **MicStreamer** for live voice chat through Discord on your PC—without needing a separate headset!
+## FAQ / Tips:
 
 ---
 
-## 🤝 Thank You for Using MicStreamer!
-Got feedback? Open an issue on GitHub or drop us a message.
+### Use with Any App:
+You're not limited to Discord!  
+You can route your Vision Pro mic audio into any app that accepts audio input.  
+Just set **VB-Audio Virtual Cable** as the **Input Device** in that app’s audio settings.
+
+---
+
+### Floating Mute Button:
+- Want to move the app out of the way but keep mic control handy?
+- Tap **"Launch Floating Mute Button"** inside the app.
+- This spawns a small, draggable mute/unmute button you can place anywhere in your space for quick access during gameplay or calls.
+
+---
+
+### Wi-Fi Reminder:
+- Your Vision Pro and PC must be on the **same Wi-Fi network** for low-latency streaming.
+
+---
+
+### No Audio?
+- Ensure:
+  - The **Mic Streamer Windows** app is running and **Start Listening** has been clicked.
+  - **VB-Audio Virtual Cable** is the **Default Playback Device**.
+  - Discord’s **Input Device** is set to **VB-Audio Virtual Cable**.
+
+---
+
+### Voice Activity Detection (VAD):
+- You can enable **VAD** in the Vision Pro app for auto-mute when silent.
+
+---
+
+### Gain Adjustment:
+- Adjust the **Gain** in the Vision Pro app if your audio is too soft or too loud.
+
+---
+
+### Antivirus Warning?
+- Some antivirus software may flag the Mic Streamer Windows Receiver App on first launch.
+- This is a **false positive** due to the app’s custom, unsigned code.
+- You can safely **allow** or **whitelist** the app in your antivirus settings.
+
+---
+
+### Support:
+- For bugs/issues, contact: **micstreamerapp@gmail.com**
