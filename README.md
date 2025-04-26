@@ -11,7 +11,7 @@ MicStreamer is a Vision Pro app that streams high-quality microphone audio over 
 
 ## 🖥️ Windows App Preview
 
-![MicStreamer Windows][https://github.com/NeoVectorX/MicStreamer/blob/main/MicStreamer-Windows.jpg]
+![MicStreamer Windows](https://github.com/NeoVectorX/MicStreamer/blob/main/MicStreamer-Windows.jpg)
 
 ---
 
