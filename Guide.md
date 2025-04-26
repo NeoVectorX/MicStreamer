@@ -48,7 +48,7 @@ Welcome to **MicStreamer**, the ultimate Vision Pro mic streaming solution. This
 
 ---
 
-## 4. You Are Done! 🎉
+## 4. You Are Done! 
 - Your Vision Pro microphone audio is now streaming into your Windows app and ready for Discord or any app of your choice!
 
 ---
