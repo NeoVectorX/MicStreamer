@@ -29,8 +29,8 @@ Windows:
 1. Go to [vb-audio.com/Cable](https://vb-audio.com/Cable/) to download and install the VB Audio Driver. Restart PC.
 2. Right-click the speaker icon in your Windows taskbar > Sounds > Playback tab and set VB-Audio Virtual Cable as your Default Playback Device.
 3. **Download** the latest MicStreamer Windows Receiver from [Releases](https://github.com/NeoVectorX/MicStreamer/releases).
-4. Run Micstreamer Receiver and click to Start Listenening
-5. Open Discord or preffered voice chat app and select VB-Audio Virtual Cable as input device. 
+4. Run Micstreamer Receiver and click to Start Listening
+5. Open Discord or preferred voice chat app and select VB-Audio Virtual Cable as input device. 
 6. You're done!
 
 ---
