@@ -21,8 +21,8 @@ Note: Read the [Guide.md](Guide.md) for full in-depth instructions
 
 Vision Pro: 
 
-1. Install the MicStreamer Testflight on Apple Vision Pro
-2. Type in PC IP address
+1. Install the MicStreamer on Apple Vision Pro
+2. Type in your Windows IP address
 3. Toggle Stream Microphone
 
 Windows: 
