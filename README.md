@@ -55,3 +55,9 @@ For a full setup guide, including Vision Pro app pairing and troubleshooting, ch
 ## 💬 Feedback
 
 Still have issues of have feedback? hit me up me on [Reddit](https://www.reddit.com/user/Kengine/) or Open an [Issue](https://github.com/NeoVectorX/MicStreamer/issues)
+
+
+
+## 🙌 Thanks
+
+To Samantha for listening to me ramble endlessly about MicStreamer, and to Notto, Tifthir, and Minel for testing the app!
