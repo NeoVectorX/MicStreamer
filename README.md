@@ -58,6 +58,8 @@ Still have issues of have feedback? hit me up me on [Reddit](https://www.reddit.
 
 
 
+---
+
 ## 🙌 Thanks
 
 To Samantha for listening to me ramble endlessly about MicStreamer, and to Notto, Tifthir, and Minel for testing the app!
