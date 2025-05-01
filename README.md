@@ -5,8 +5,9 @@ MicStreamer is a Vision Pro app that streams high-quality microphone audio over 
 
 ## 🔥 Features
 - Low-latency UDP audio reception
+- Mini Mode with a spatial floating mute button
+- Game Audio Dimming feature to allow real-world conversations
 - 16-bit stereo 48kHz PCM playback
-- Sleek military-themed UI with custom fonts and colors
 - Compatible with VB-Audio Virtual Cable for Discord & game streaming
 
 ## 🖥️ Windows App Preview
