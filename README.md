@@ -34,6 +34,11 @@ Windows:
 5. Open Discord or preferred voice chat app and select VB-Audio Virtual Cable as input device. 
 6. You're done!
 
+### ⚠️ Heads-Up: Unsigned App Notice
+
+The MicStreamer Windows Receiver is currently **not digitally signed**, so you may see a Windows SmartScreen warning the first time you run it.  
+This is expected for indie-developed apps without a certificate.
+
 ---
 
 
