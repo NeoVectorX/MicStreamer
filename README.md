@@ -10,7 +10,7 @@ MicStreamer is a Vision Pro app that streams high-quality microphone audio over 
 - 16-bit stereo 48kHz PCM playback
 - Compatible with VB-Audio Virtual Cable for Discord & game streaming
 
-## 🖥️ Windows App Preview
+## 🖥️ Windows App 
 
 ![MicStreamer Windows](https://github.com/NeoVectorX/MicStreamer/blob/main/Micstreamer-Windows.jpg)
 
