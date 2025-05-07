@@ -51,6 +51,8 @@ Welcome to **MicStreamer**, the ultimate Vision Pro mic streaming solution. This
 
 ## 4. You Are Done! 
 - Your Vision Pro microphone audio is now streaming into your Windows app and ready for Discord or any app of your choice!
+- From now on you just open the Windows app, click Start Listening, and Toggle Stream Microphone in the Vision Pro app. The app will save your settings such as IP address, etc. 
+
 
 ---
 
