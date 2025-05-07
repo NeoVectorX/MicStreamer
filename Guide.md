@@ -20,8 +20,9 @@ Welcome to **MicStreamer**, the ultimate Vision Pro mic streaming solution. This
 - Go to [vb-audio.com/Cable](https://vb-audio.com/Cable/) and download/install the **VB Audio Driver**.
 - Restart your PC after installation.
 
-**Step 3: Launch the Windows Receiver App downloaded here from Github** 
-- Open the **Mic Streamer Receiver** app on your PC.
+**Step 3: Launch the Windows Receiver App** 
+- Extract the MicStreamer-Windows-Receiver.zip
+- Run MicStreamer.exe. **Note:** Windows Defender may popup a warning as the app is not signed. Click **More Info/Run Anyway** to launch the app.  
 - Click **Start Listening** to begin receiving audio.
 - The app will display **"Listening..."** and show incoming audio data when streaming starts.
 
@@ -63,10 +64,12 @@ Just set **VB-Audio Virtual Cable** as the **Input Device** in that app’s audi
 
 ---
 
-### Floating Mute Button:
+### Mini Mode - Floating Mute Button:
 - Want to move the app out of the way but keep mic control handy?
 - Tap **"Launch Floating Mute Button"** inside the app.
 - This spawns a small, draggable mute/unmute button you can place anywhere in your space for quick access during gameplay or calls.
+- A single tap Mutes the Mic audio (red). Tap it again to unmute. 
+- A long press (hold) turns the icon (gray) and activates audio dimming based off the setting chosen in the Vision Pro MicStreamer app. This is designed to allow users to hold a conversation in the room without removing the headset while gaming. Release to return audio back to the previous state. 
 
 ---
 
@@ -99,5 +102,6 @@ Just set **VB-Audio Virtual Cable** as the **Input Device** in that app’s audi
 - Some antivirus software may flag the Mic Streamer Windows Receiver App on first launch.
 - This is a **false positive** due to the app’s custom, unsigned code.
 - You can safely **allow** or **whitelist** the app in your antivirus settings.
+- IF the app becomes popular, I will certainly get the code signed. 
 
 
