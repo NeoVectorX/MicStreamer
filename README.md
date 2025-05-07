@@ -67,4 +67,4 @@ Still have issues of have feedback? hit me up me on [Reddit](https://www.reddit.
 
 ## 🙌 Thanks
 
-To Samantha and Daniel for brainstorming with me about MicStreamer, and to Notto, Tifthir, and Minel for testing the app!
+To Samantha and Daniel for brainstorming with me about Mic Streamer, and to Notto, Tifthir, and Minel for testing the app!
