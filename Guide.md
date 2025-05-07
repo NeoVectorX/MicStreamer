@@ -21,7 +21,7 @@ Welcome to **MicStreamer**, the ultimate Vision Pro mic streaming solution. This
 - Restart your PC after installation.
 
 **Step 3: Launch the Windows Receiver App** 
-- Extract the MicStreamer-Windows-Receiver.zip
+- Extract the MicStreamer-Windows-Receiver.zip downloaded from here: [Releases](https://github.com/NeoVectorX/MicStreamer/releases).
 - Run MicStreamer.exe. **Note:** Windows Defender may popup a warning as the app is not signed. Click **More Info/Run Anyway** to launch the app.  
 - Click **Start Listening** to begin receiving audio.
 - The app will display **"Listening..."** and show incoming audio data when streaming starts.
