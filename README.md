@@ -42,7 +42,7 @@ The MicStreamer Windows Receiver is currently **not digitally signed**, so you m
 
 
 
-## 📖 Guide
+## 📖 Full Setup Guide & Tips
 
 For a full setup guide, including Vision Pro app pairing and troubleshooting, check out [Guide.md](Guide.md).
 
