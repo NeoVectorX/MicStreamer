@@ -36,7 +36,7 @@ Windows:
 
 ### ⚠️ Heads-Up: Unsigned App Notice
 
-The MicStreamer Windows Receiver is currently **not digitally signed**, so you may see a Windows SmartScreen warning the first time you run it.  This is normal behavior for indie-developed apps without a certificate.
+The MicStreamer Windows Receiver is currently **not digitally signed**, so you may see a Windows SmartScreen warning the first time you run it.  Click More Info -> Run Anyway to launch. This is normal behavior for indie-developed apps without a certificate.
 
 ---
 
