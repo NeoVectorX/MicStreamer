@@ -32,7 +32,7 @@ Windows:
 3. **Download** the latest MicStreamer Windows Receiver from [Releases](https://github.com/NeoVectorX/MicStreamer/releases).
 4. Run Micstreamer Receiver and click to Start Listening
 5. Open Discord or preferred voice chat app and select VB-Audio Virtual Cable as input device. 
-6. You're done!
+6. You're done! Check the [Guide.md](Guide.md) for additional tweaks/settings in Discord, etc.
 
 ### ⚠️ Heads-Up: Unsigned App Notice
 
@@ -59,7 +59,7 @@ For a full setup guide, including Vision Pro app pairing and troubleshooting, ch
 
 ## 💬 Feedback
 
-Still have issues of have feedback? hit me up me on [Reddit](https://www.reddit.com/user/Kengine/) or Open an [Issue](https://github.com/NeoVectorX/MicStreamer/issues)
+Still have issues of have feedback? hit me up me on [Reddit](https://www.reddit.com/user/Kengine/) or Open an [Issue](https://github.com/NeoVectorX/MicStreamer/issues). Make to check the full setup guide as there's tips and more indepth setup information. 
 
 
 
