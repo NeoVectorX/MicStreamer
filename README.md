@@ -66,7 +66,7 @@ Still have issues of have feedback? hit me up me on [Reddit](https://www.reddit.
 ## Planned Update for 1.1
 
 - Option to choose bitrate for latency
-- MacOS Receiver is currently being developed
+- MacOS Receiver
 - Visual indicator for Mute/Unmute Mode on main menu
 
 
