@@ -1,4 +1,4 @@
-# Mic Streamer
+s# Mic Streamer
 Mic Streamer is a Vision Pro app that streams high-quality microphone audio over your local network in real time. Paired with the Windows or MacOS audio receiver, MicStreamer lets Vision Pro users enjoy low-latency voice capture for gaming, voice chat, and more—directly from their headset.
 
 
@@ -39,7 +39,7 @@ Note: Read the [Guide.md](Guide.md) for full in-depth instructions
 2. **Download** the latest Mic Streamer MacOS Receiver from [Releases](https://github.com/NeoVectorX/MicStreamer/releases).
 3. Connect to Virtual Display in the Apple Vision Pro. **(This step is important to be able to select the Vision Pro audio in the following steps)**
 5. Open Discord or preferred voice chat app and select VB-Audio Virtual Cable as input device. Output set to Vision Pro (Your Vision Pro Device Name). 
-6. Set Mac system sound setting to Vision Pro output. 
+6. Set Mac system sound setting to **Vision Pro** output. 
 7. Run the Mac Receiver app and click Start Listening in the MacOS Receiver.
 8. You're done! Check the [Guide.md](Guide.md) for additional tweaks/settings in Discord, etc.
 
@@ -58,7 +58,7 @@ For a full setup guide, including Vision Pro app pairing and troubleshooting, ch
 ---
 
 ## 🔧 Requirements
-- Windows 10 or newer
+- Windows 10 or newer, or MacOS 13 or newer
 - .NET Framework 4.8+
 - VB-Audio Virtual Cable Driver
 
