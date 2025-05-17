@@ -37,7 +37,7 @@ Note: Read the [Guide.md](Guide.md) for full in-depth instructions
 ### MacOS:
 1. Go to [vb-audio.com/Cable](https://vb-audio.com/Cable/) to download and install the VB Audio Driver. Restart Mac.
 2. **Download** the latest Mic Streamer MacOS Receiver from [Releases](https://github.com/NeoVectorX/MicStreamer/releases).
-3. Connect to Virtual Display in the Apple Vision Pro. (This step is important to be able to select the Vision Pro audio in the following steps)
+3. Connect to Virtual Display in the Apple Vision Pro. **(This step is important to be able to select the Vision Pro audio in the following steps)**
 5. Open Discord or preferred voice chat app and select VB-Audio Virtual Cable as input device. Output set to Vision Pro (Your Vision Pro Device Name). 
 6. Set Mac system sound setting to Vision Pro output. 
 7. Run the Mac Receiver app and click Start Listening in the MacOS Receiver.
