@@ -20,13 +20,13 @@ Mic Streamer is a Vision Pro app that streams high-quality microphone audio over
 
 Note: Read the [Guide.md](Guide.md) for full in-depth instructions
 
-Vision Pro: 
+### Vision Pro: 
 
 1. Install the Mic Streamer on Apple Vision Pro
 2. Type in your windows IP address
 3. Toggle Stream Microphone
 
-###Windows: 
+### Windows: 
 1. Go to [vb-audio.com/Cable](https://vb-audio.com/Cable/) to download and install the VB Audio Driver. Restart PC.
 2. Right-click the speaker icon in your Windows taskbar > Sounds > Playback tab and set VB-Audio Virtual Cable as your Default Playback Device.
 3. **Download** the latest Mic Streamer Windows Receiver from [Releases](https://github.com/NeoVectorX/MicStreamer/releases).
@@ -34,7 +34,7 @@ Vision Pro:
 5. Open Discord or preferred voice chat app and select VB-Audio Virtual Cable as input device. 
 6. You're done! Check the [Guide.md](Guide.md) for additional tweaks/settings in Discord, etc.
 
-###MacOS:
+### MacOS:
 1. Go to [vb-audio.com/Cable](https://vb-audio.com/Cable/) to download and install the VB Audio Driver. Restart Mac.
 2. **Download** the latest Mic Streamer MacOS Receiver from [Releases](https://github.com/NeoVectorX/MicStreamer/releases).
 3. Connect to Virtual Display in the Apple Vision Pro. (This step is important to be able to select the Vision Pro audio in the following steps)
