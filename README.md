@@ -6,7 +6,7 @@ Mic Streamer is a Vision Pro app that streams high-quality microphone audio over
 ## 🔥 Features
 - Low-latency UDP audio reception
 - Mini Mode with a tactical floating mute button
-- Game Audio Dimming feature to allow real-world conversations (Feature currently unavailable on MacOs version)
+- Game Audio Dimming feature to allow real-world conversations (Feature currently unavailable on MacOs)
 - 16-bit stereo 48kHz PCM playback
 - Compatible with VB-Audio Virtual Cable for Discord & game streaming
 
