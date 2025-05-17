@@ -1,16 +1,16 @@
 # Mic Streamer
-Mic Streamer is a Vision Pro app that streams high-quality microphone audio over your local network in real time. Paired with its custom Windows UDP audio receiver, MicStreamer lets Vision Pro users enjoy low-latency voice capture for gaming, voice chat, and more—directly from their headset.
+Mic Streamer is a Vision Pro app that streams high-quality microphone audio over your local network in real time. Paired with the Windows or MacOS audio receiver, MicStreamer lets Vision Pro users enjoy low-latency voice capture for gaming, voice chat, and more—directly from their headset.
 
 
 
 ## 🔥 Features
 - Low-latency UDP audio reception
 - Mini Mode with a tactical floating mute button
-- Game Audio Dimming feature to allow real-world conversations
+- Game Audio Dimming feature to allow real-world conversations (Unavailable on MacOs version due to VisionOS limitations)
 - 16-bit stereo 48kHz PCM playback
 - Compatible with VB-Audio Virtual Cable for Discord & game streaming
 
-## 🖥️ Windows App 
+## 🖥️ Windows & MacOS App 
 
 ![MicStreamer Windows](https://github.com/NeoVectorX/MicStreamer/blob/main/Micstreamer-Windows.jpg)
 
@@ -34,9 +34,18 @@ Windows:
 5. Open Discord or preferred voice chat app and select VB-Audio Virtual Cable as input device. 
 6. You're done! Check the [Guide.md](Guide.md) for additional tweaks/settings in Discord, etc.
 
+MacOS:
+1. Go to [vb-audio.com/Cable](https://vb-audio.com/Cable/) to download and install the VB Audio Driver. Restart Mac.
+2. **Download** the latest Mic Streamer MacOS Receiver from [Releases](https://github.com/NeoVectorX/MicStreamer/releases).
+3. Connect to Virtual Display in the Apple Vision Pro. (This step is important to be able to select the Vision Pro audio in the following steps)
+5. Open Discord or preferred voice chat app and select VB-Audio Virtual Cable as input device. Output set to Vision Pro (Your Vision Pro Device Name). 
+6. Set Mac system sound setting to Vision Pro output. 
+7. Run the Mac Receiver app and click Start Listening in the MacOS Receiver.
+8. You're done! Check the [Guide.md](Guide.md) for additional tweaks/settings in Discord, etc.
+
 ### ⚠️ Heads-Up: Unsigned App Notice
 
-The MicStreamer Windows Receiver is currently **not digitally signed**, so you may see a Windows SmartScreen warning the first time you run it.  **Click More Info -> Run Anyway to launch**. This is normal behavior for indie-developed apps without a certificate.
+The MicStreamer Windows Receiver is currently **not digitally signed**, so you may see a Windows SmartScreen warning the first time you run it.  **Click More Info -> Run Anyway to launch**. This is normal behavior for indie-developed apps without a certificate. The MacOS version is signed. 
 
 ---
 
@@ -63,15 +72,6 @@ Still have issues of have feedback? hit me up me on [Reddit](https://www.reddit.
 
 ---
 
-## Planned Update for 1.1
-
-- Option to choose bitrate for latency
-- MacOS Receiver
-- Visual indicator for Mute/Unmute Mode on main menu
-
-
----
-
 ## 🙌 Thanks
 
-To Samantha and Daniel for brainstorming with me about Mic Streamer, and to Notto, Tifthir, and Minel for testing the app!
+To Samantha and Daniel for brainstorming with me about Mic Streamer, and to CrowKing63, Ms Noah, Notto, Tifthir, and Minel for testing the app!
