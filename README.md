@@ -40,7 +40,7 @@ Note: Read the [Guide.md](Guide.md) for full in-depth instructions
 3. Connect to Virtual Display in the Apple Vision Pro. **(This step is important to be able to select the Vision Pro audio in the following steps)**
 5. Open Discord or preferred voice chat app and select VB-Audio Virtual Cable as input device. Output set to Vision Pro (Your Vision Pro Device Name). 
 6. Set Mac system sound setting to **Vision Pro** output. 
-7. Run the Mac Receiver app and click Start Listening in the MacOS Receiver.
+7. Run the Mac Receiver app and click Start Listening.
 8. You're done! Check the [Guide.md](Guide.md) for additional tweaks/settings in Discord, etc.
 
 ### ⚠️ Heads-Up: Unsigned App Notice
