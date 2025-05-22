@@ -1,6 +1,6 @@
 # 🎤 MicStreamer Full Setup Guide
 
-Welcome to **MicStreamer**, the ultimate Vision Pro mic streaming solution. This guide walks you through setting up the app on your Vision Pro and pairing it with the Windows Receiver.
+Welcome to **MicStreamer**, the ultimate Vision Pro mic streaming solution. This guide walks you through setting up the app on your Vision Pro and pairing it with the Windows or MacOS Receiver.
 
 ---
 
