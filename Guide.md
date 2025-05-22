@@ -97,7 +97,8 @@ Just set **VB-Audio Virtual Cable** as the **Input Device** in that app’s audi
   - If you switch focus away from Moonlight to another app (or the Vision Pro home screen) and then return, the Mic Streamer may stop sending audio until you toggle the mic stream off and back on again. This is due to how the Vision Pro handles audio session interruptions and app focus changes. Retoggling the Mic Stream will fix it. 
   - **VB-Audio Virtual Cable** is the **Default Playback Device**.
   - Discord’s **Input Device** is set to **VB-Audio Virtual Cable**.
-  - Make sure you don't have the Draggable Mute Button muted. 
+  - Make sure you don't have the Draggable Mute Button muted.
+  - Due to the VisionOS design, you may need to select your Vision Pro Audio once connected in Virtual Display if it doesn't default to the Vision Pro.
 
 ---
 
