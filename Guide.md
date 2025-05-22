@@ -31,7 +31,7 @@ Welcome to **MicStreamer**, the ultimate Vision Pro mic streaming solution. This
 
 ---
 
-### MacOS Version:
+## MacOS Version:
 1. Go to [vb-audio.com/Cable](https://vb-audio.com/Cable/) to download and install the MacOS VB Audio Driver. Restart Mac.
 2. **Download** the latest Mic Streamer MacOS Receiver from [Releases](https://github.com/NeoVectorX/MicStreamer/releases).
 3. Connect to Virtual Display in the Apple Vision Pro. **(This step is important to be able to select the Vision Pro audio in the following steps)**
@@ -44,7 +44,7 @@ Welcome to **MicStreamer**, the ultimate Vision Pro mic streaming solution. This
 
 ## Configure Discord (or Any App):
 
-** Set VB-Audio as Input**
+**Set VB-Audio as Input**
 - Open **Discord** > **User Settings** > **Voice & Video**.
 - Under **Input Device**, select **VB-Audio Virtual Cable**.
 - Turn **OFF** the following for best quality:
