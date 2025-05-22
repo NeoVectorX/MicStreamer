@@ -43,6 +43,15 @@ Note: Read the [Guide.md](Guide.md) for full in-depth instructions
 7. Run the Mac Receiver app and click Start Listening.
 8. You're done! Check the [Guide.md](Guide.md) for additional tweaks/settings in Discord, etc.
 
+### Mini Mode - Floating Mute Button:
+Want to move the app out of the way but keep mic control handy?
+Tap "Launch Floating Mute Button" inside the app.
+This spawns a small, draggable mute/unmute button you can place anywhere in your space for quick access during gameplay or calls.
+A single tap Mutes the Mic audio (red). Tap it again to unmute.
+A long press (hold) turns the icon (gray) and activates audio dimming based off the setting chosen in the Vision Pro MicStreamer app. This is designed to allow users to hold a conversation in the room without removing the headset while gaming. Release to return audio back to the previous state.
+
+
+
 ### ⚠️ Heads-Up: Unsigned App Notice
 
 The MicStreamer Windows Receiver is currently **not digitally signed**, so you may see a Windows SmartScreen warning the first time you run it.  **Click More Info -> Run Anyway to launch**. This is normal behavior for indie-developed apps without a certificate. The MacOS version is signed. 
