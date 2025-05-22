@@ -4,7 +4,7 @@ Welcome to **MicStreamer**, the ultimate Vision Pro mic streaming solution. This
 
 ---
 
-## 1. Setup on Vision Pro:
+## Setup on Vision Pro:
 
 **Step 1: Launch Mic Streamer**
 - Open the **Mic Streamer** app on your Apple Vision Pro.
@@ -14,29 +14,37 @@ Welcome to **MicStreamer**, the ultimate Vision Pro mic streaming solution. This
 
 ---
 
-## 2. Setup on Windows PC:
+## Windows PC Version:
 
 **Step 2: Install VB-Audio Virtual Cable**
-- Go to [vb-audio.com/Cable](https://vb-audio.com/Cable/) and download/install the **VB Audio Driver**.
-- Restart your PC after installation.
-
-**Step 3: Launch the Windows Receiver App** 
-- Extract the **MicStreamer-Windows-Receiver.zip** downloaded from here: [Releases](https://github.com/NeoVectorX/MicStreamer/releases).
-- Run MicStreamer.exe. **Note:** Windows Defender may popup a warning as the app is not signed. Click **More Info/Run Anyway** to launch the app.  
-- Click **Start Listening** to begin receiving audio.
-- The app will display **"Listening..."** and show incoming audio data when streaming starts.
+1. Go to [vb-audio.com/Cable](https://vb-audio.com/Cable/) and download/install the **VB Audio Driver**.
+2. Restart your PC after installation.
+3. Extract the **MicStreamer-Windows-Receiver.zip** downloaded from here: [Releases](https://github.com/NeoVectorX/MicStreamer/releases).
+4. Run MicStreamer.exe. **Note:** Windows Defender may popup a warning as the app is not signed. Click **More Info/Run Anyway** to launch the app.  
+5. Click **Start Listening** to begin receiving audio.
+6. The app will display **"Listening..."** and show incoming audio data when streaming starts.
 
 **Step 4: Route Audio to VB-Audio Cable**
-- The app sends audio to your system’s **default playback device**.
-- To ensure proper routing:
-  - Right-click the speaker icon in your Windows taskbar > **Sounds** > **Playback** tab.
-  - Set **VB-Audio Virtual Cable** as your **Default Playback Device**.
+7. The app sends audio to your system’s **default playback device**.
+8. Right-click the speaker icon in your Windows taskbar > **Sounds** > **Playback** tab.
+9. Set **VB-Audio Virtual Cable** as your **Default Playback Device**.
 
 ---
 
-## 3. Configure Discord (or Any App):
+### MacOS Version:
+1. Go to [vb-audio.com/Cable](https://vb-audio.com/Cable/) to download and install the MacOS VB Audio Driver. Restart Mac.
+2. **Download** the latest Mic Streamer MacOS Receiver from [Releases](https://github.com/NeoVectorX/MicStreamer/releases).
+3. Connect to Virtual Display in the Apple Vision Pro. **(This step is important to be able to select the Vision Pro audio in the following steps)**
+5. Open Discord or preferred voice chat app and select VB-Audio Virtual Cable as input device. Output set to Vision Pro (Your Vision Pro Device Name). 
+6. Set Mac system sound setting to **Vision Pro** output. 
+7. Run the Mac Receiver app and click Start Listening.
+8. You're done! Check the [Guide.md](Guide.md) for additional tweaks/settings in Discord, etc.
 
-**Step 5: Set VB-Audio as Input**
+---
+
+## Configure Discord (or Any App):
+
+** Set VB-Audio as Input**
 - Open **Discord** > **User Settings** > **Voice & Video**.
 - Under **Input Device**, select **VB-Audio Virtual Cable**.
 - Turn **OFF** the following for best quality:
@@ -47,11 +55,13 @@ Welcome to **MicStreamer**, the ultimate Vision Pro mic streaming solution. This
   - Disable **"Automatically determine input sensitivity"**.
   - Manually set the slider so your voice triggers green bars without cutting out.
 
+
 ---
 
-## 4. You Are Done! 
+## You Are Done! 
 - Your Vision Pro microphone audio is now streaming into your Windows app and ready for Discord or any app of your choice!
-- From now on you just open the Windows app, click Start Listening, and Toggle Stream Microphone in the Vision Pro app. The app will save your settings such as IP address, etc. 
+- Windows Version: From now on you just open the app, click Start Listening, and Toggle Stream Microphone in the Vision Pro app. The app will save your settings such as IP address, etc.
+- Mac Version: Due to the VisionOS design, you may need to select your Vision Pro Audio once connected in Virtual Display if it doesn't default to the Vision Pro. 
 
 
 ---
