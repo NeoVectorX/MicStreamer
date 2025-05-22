@@ -54,7 +54,7 @@ A long press (hold) turns the icon (gray) and activates audio dimming based off 
 
 ### ⚠️ Heads-Up: Unsigned App Notice
 
-The MicStreamer Windows Receiver is currently **not digitally signed**, so you may see a Windows SmartScreen warning the first time you run it.  **Click More Info -> Run Anyway to launch**. This is normal behavior for indie-developed apps without a certificate. The MacOS version is signed. 
+The MicStreamer Windows Receiver is currently **not digitally signed**, so you may see a Windows SmartScreen warning the first time you run it.  Click More Info -> Run Anyway to launch. This is normal for unsigned apps from independent developers. The EXE is 100% safe and open-source — feel free to inspect the code or build it yourself. 
 
 ---
 
