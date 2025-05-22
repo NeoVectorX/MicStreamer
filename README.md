@@ -46,9 +46,10 @@ Note: Read the [Guide.md](Guide.md) for full in-depth instructions
 ### Mini Mode - Floating Mute Button:
 Want to move the app out of the way but keep mic control handy?
 Tap "Launch Floating Mute Button" inside the app.
-This spawns a small, draggable mute/unmute button you can place closeby for quick access during gameplay or calls. No need to pinch to click. 
+This spawns a small, draggable mute/unmute button you can place closeby for quick access during gameplay or calls. No need to pinch to click.
+
 A single quick tap with your finger Mutes the Mic audio (red). Tap it again to unmute.
-A long press (hold) turns the icon (gray) and activates audio dimming based off the setting chosen in the Vision Pro MicStreamer app. This is designed to allow users to hold a conversation in the room without removing the headset while gaming. Release to return audio back to the previous state.
+A long press (hold) turns the icon (gray) and activates audio dimming based off the setting chosen in the Vision Pro MicStreamer app. This is designed to allow users to hold a conversation in the room without removing the headset while gaming. Release to return audio back to the previous state. (Note: Audio Dimming feature currently only avaiable for the Windows version)
 
 
 
