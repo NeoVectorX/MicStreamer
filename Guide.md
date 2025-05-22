@@ -98,7 +98,7 @@ Just set **VB-Audio Virtual Cable** as the **Input Device** in that app’s audi
   - **VB-Audio Virtual Cable** is the **Default Playback Device**.
   - Discord’s **Input Device** is set to **VB-Audio Virtual Cable**.
   - Make sure you don't have the Draggable Mute Button muted.
-  - Due to the VisionOS design, you may need to select your Vision Pro Audio once connected in Virtual Display if it doesn't default to the Vision Pro.
+  - Due to the VisionOS design, when the Vision Pro is restarted you may need to reselect your Vision Pro as the system output audio once connected in Virtual Display if it doesn't default to the Vision Pro.
 
 ---
 
