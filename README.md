@@ -75,7 +75,8 @@ For a full setup guide, including Vision Pro app pairing and troubleshooting, ch
   - **VB-Audio Virtual Cable** is the **Default Playback Device**.
   - Discord’s **Input Device** is set to **VB-Audio Virtual Cable**.
   - Ensure the Mute Button isn't enabled.
-  - The VAD (Voice Activity Detection) setting cuts off the voice stream to reduce latency even further. Disable to keep a constant voice stream. 
+  - The VAD (Voice Activity Detection) setting cuts off the voice stream to reduce latency even further. Disable to keep a constant voice stream.
+  - Due to the VisionOS design, you may need to select your Vision Pro Audio once connected in Virtual Display if it doesn't default to the Vision Pro.
 
 
 ---
